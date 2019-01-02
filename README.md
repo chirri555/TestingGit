@@ -1,3 +1,3 @@
 # TestingGit
 
-SeguridaD iNFORMATICA 
+Seguridad Informatica
